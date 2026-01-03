@@ -1,0 +1,50 @@
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\MainWindow.g.cs
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\App.g.cs
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator_MarkupCompile.cache
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator_MarkupCompile.lref
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.dll
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\refint\SpaceMissionSimulator.dll
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.pdb
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\bin\Debug\net7.0-windows\SpaceMissionSimulator.exe
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\bin\Debug\net7.0-windows\SpaceMissionSimulator.deps.json
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\bin\Debug\net7.0-windows\SpaceMissionSimulator.runtimeconfig.json
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\bin\Debug\net7.0-windows\SpaceMissionSimulator.dll
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\bin\Debug\net7.0-windows\SpaceMissionSimulator.pdb
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\MainWindow.baml
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.g.resources
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.AssemblyInfoInputs.cache
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.AssemblyInfo.cs
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.csproj.CoreCompileInputs.cache
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.genruntimeconfig.cache
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\ref\SpaceMissionSimulator.dll
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\MenuWindow.baml
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\MenuWindow.g.cs
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\MissionsWindow.baml
+c:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\MissionsWindow.g.cs
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\bin\Debug\net7.0-windows\SpaceMissionSimulator.exe
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\bin\Debug\net7.0-windows\SpaceMissionSimulator.deps.json
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\bin\Debug\net7.0-windows\SpaceMissionSimulator.runtimeconfig.json
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\bin\Debug\net7.0-windows\SpaceMissionSimulator.dll
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\bin\Debug\net7.0-windows\SpaceMissionSimulator.pdb
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\MenuWindow.baml
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\MissionsWindow.baml
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\MenuWindow.g.cs
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\MissionsWindow.g.cs
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator_MarkupCompile.cache
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator_MarkupCompile.lref
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.g.resources
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.AssemblyInfo.cs
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.dll
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\refint\SpaceMissionSimulator.dll
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.pdb
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\SpaceMissionSimulator.genruntimeconfig.cache
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\ref\SpaceMissionSimulator.dll
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\App.baml
+C:\Users\User\Documents\Proyecto COMP2400\Proyecto COMP2400\SpaceMissionSimulator\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
