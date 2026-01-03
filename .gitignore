@@ -1,0 +1,65 @@
+# Visual Studio / .NET / WPF
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# VS user-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Logs
+*.log
+
+# IIS Express
+/.vs/iisexpress/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Rider
+.idea/
+*.sln.iml
+
+# Others
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+*.dbmdl
+*.bak
+*.orig
+*.tmp
+*.userprefs
+
+# Local tools
+.localhistory/
+
+# Temporary files
+~$*
+*.tmp
+*.temp

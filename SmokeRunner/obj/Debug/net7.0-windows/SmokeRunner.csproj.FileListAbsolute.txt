@@ -1,5 +1,0 @@
-C:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SmokeRunner\obj\Debug\net7.0-windows\SmokeRunner.csproj.AssemblyReference.cache
-C:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SmokeRunner\obj\Debug\net7.0-windows\SmokeRunner.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SmokeRunner\obj\Debug\net7.0-windows\SmokeRunner.AssemblyInfoInputs.cache
-C:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SmokeRunner\obj\Debug\net7.0-windows\SmokeRunner.AssemblyInfo.cs
-C:\Users\angel\OneDrive\Documents\Universidad\Proyecto COMP2400\SmokeRunner\obj\Debug\net7.0-windows\SmokeRunner.csproj.CoreCompileInputs.cache
